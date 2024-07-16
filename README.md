@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Salmaabddou 
-- 👀 I’m interested in Robotics and AI Expert in CAD Design
+- 👀 I’m interested in Robotics & AI and Expert in CAD Design
 - 🌱 I’m currently learning AI& ML
 - 💞️ I’m looking to collaborate on related projects 
 - 📫 How to reach me: salma.ali@ejust.edu.eg
